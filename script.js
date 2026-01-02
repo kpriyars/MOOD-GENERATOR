@@ -30,6 +30,11 @@ const moodData = {
     default: {
         color: "#f0f2f5",
         message: "That's an interesting mood! Embrace it today. 🌈"
+    },
+   birthday: {
+    color: "linear-gradient(45deg, #f093fb 0%, #f5576c 100%)",
+    message: "Happy Birthday, Krishna Priya! Have a magical day! 🎂✨"
+},
     }
 };
 
