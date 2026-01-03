@@ -20,7 +20,7 @@
 The **Mood Palette Generator** is a responsive single-page application (SPA) designed to enhance user experience through color psychology. By mapping specific emotional keywords to visual changes, the app provides immediate feedback using smooth CSS transitions and modern "Glassmorphism" UI principles.
 
 ## 🚀 Live Demo
-Check out the app here: [kpriyars.github.io/mood-generator/](https://kpriyars.github.io/mood-generator/)
+Check out the app here: [kpriyars.github.io/mood-generator/]( https://kpriyars.github.io/MOOD-GENERATOR/)
 
 ## ✨ Features
 - **Dynamic Backgrounds**: Smooth 1s CSS transitions.
